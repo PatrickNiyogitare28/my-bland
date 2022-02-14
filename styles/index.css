@@ -1,0 +1,50 @@
+
+body{
+    font-family: 'Oxygen', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    padding: 3em;
+    box-sizing: border-box;
+}
+.nav-bar{
+    width: 100%;
+    display: flex;
+}
+.nav-bar ul{
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+    margin-left: auto;
+}
+.nav-bar ul li{
+    list-style-type: none;
+    font-size: 20px;
+}
+.content-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.content-sub-wrapper{
+    width:65%;
+    display: flex;
+    justify-content: space-around;
+    height: max-content;
+}
+.content-sub-wrapper img{
+    border-radius: 50%;
+    border: 3px solid gray;
+}
+.highrights{
+    margin-left: 2em;
+
+}
+.highrights h1{
+   font-size: 5em;
+}
+.highrights p{
+    font-size: 2em;
+}
