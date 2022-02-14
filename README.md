@@ -1,2 +1,2 @@
 # my-bland
-This my bland garden platform 🚀
+ATLP elite demo -> This serves to train how to deploy a basic web app with cloud hosting platoforms
